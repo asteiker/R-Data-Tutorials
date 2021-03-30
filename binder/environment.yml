@@ -15,4 +15,5 @@ dependencies:
   - r-base
   - r-essentials
   - jupyterlab
+  - nbgitpuller
 prefix: C:\Users\niko8816\Anaconda3\envs\envR

@@ -1,2 +1,2 @@
 # R-Data-Tutorials
-[binder](https://mybinder.org/v2/gh/nicholas-kotlinski/R-Data-Tutorials/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fnicholas-kotlinski%252FR-Data-Tutorials%26urlpath%3Dlab%252Ftree%252FR-Data-Tutorials%252FNSIDC_Data_R.ipynb%26branch%3Dmain)
+https://mybinder.org/v2/gh/nicholas-kotlinski/R-Data-Tutorials/bf798df4526b9340ef1ae2243debdfe216fefc80?urlpath=lab%2Ftree%2FR-Data-Tutorials%2FNSIDC_Data_R.ipynb
